@@ -1,6 +1,7 @@
 ---
 created: 2022-09-19T21:06:40-03:00
-modified: 2022-09-19T21:09:06-03:00
+modified: 2022-09-19T21:11:22-03:00
+type: Journal
 ---
 
 # Reportagem
